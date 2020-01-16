@@ -9,3 +9,4 @@ library(tidyverse)
 
 x<- 15
 y<- 12
+z<- -5
